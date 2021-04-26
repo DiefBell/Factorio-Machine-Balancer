@@ -1,0 +1,20 @@
+{
+	"crafts": [
+		{
+			"name": "Comressed Air",
+			"machine": "Air Filter (2)",
+			"speed": 2,
+			"time": 6,
+			"input": 1,
+			"output": 200
+		},
+		{
+			"name": "Oxygen",
+			"machine": "Chemical Plant (3)",
+			"speed": 2.75,
+			"time": 2,
+			"input": 100,
+			"output": 50
+		}
+	]
+}
