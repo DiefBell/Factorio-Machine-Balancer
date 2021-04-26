@@ -1,0 +1,93 @@
+{
+	"crafts":
+	[
+		// {
+		// 	"name": "Processed Iron",
+		// 	"machine": "Ore Processor (4)",
+		// 	"speed": 3,
+		// 	"time": 2,
+		// 	"input": 4,
+		// 	"output": 2
+		// },
+		// {
+		// 	"name": "Iron Ingot",
+		// 	"machine": "Blast Furnace (4)",
+		// 	"speed": 3,
+		// 	"time": 4,
+		// 	"input": 8,
+		// 	"output": 24
+		// },
+		{
+			"name": "Iron Ingot",
+			"machine": "Blast Furnace (4)",
+			"speed": 3,
+			"time": 4,
+			"input": 24,
+			"output": 24
+		},
+		{
+			"name": "Steel Ingot",
+			"machine": "Blast Furnace (4)",
+			"speed": 3,
+			"time": 4,
+			"input": 24,
+			"output": 6
+		},
+		{
+			"name": "Molten Steel",
+			"machine": "Induction Furnace (4)",
+			"speed": 3,
+			"time": 4,
+			"input": 12,
+			"output": 240
+		},
+		// {
+		// 	"name": "Iron Sheet Coil",
+		// 	"machine": "Strand Casting Machine (2)",
+		// 	"speed": 1.5,
+		// 	"time": 4,
+		// 	"input": 80,
+		// 	"output": 2
+		// },
+		{
+			"name": "Iron Sheet Coil",
+			"machine": "Strand Casting Machine ()",
+			"speed": 1.5,
+			"time": 4,
+			"input": 80,
+			"output": 2
+		},
+		// {
+		// 	"name": "Iron Sheet Coil",
+		// 	"machine": "Strand Casting Machine (3)",
+		// 	"speed": 2,
+		// 	"time": 4,
+		// 	"input": 80,
+		// 	"output": 2
+		// },
+		// {
+		// 	"name": "Iron Sheet Coil",
+		// 	"machine": "Strand Casting Machine (4)",
+		// 	"speed": 3,
+		// 	"time": 4,
+		// 	"input": 80,
+		// 	"output": 2
+		// },
+		// {
+		// 	"name": "Iron Plate",
+		// 	"machine": "Assembling Machine (3)",
+		// 	"speed": 1.25,
+		// 	"time": 0.5,
+		// 	"input": 1,
+		// 	"output": 4
+		// }
+		{
+			"name": "Steel Plate",
+			"machine": "Assembling Machine (4)",
+			"speed": 2,
+			"time": 0.5,
+			"input": 1,
+			"output": 4
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"defaultSeverity": "error",
+	"rules": {
+		"one-line": false,
+		"semicolon": true,
+		"no-var-keyword": true,
+		"typedef-whitespace": [
+			true,
+			{
+				"call-signature": "onespace",
+				"index-signature": "onespace",
+				"parameter": "onespace",
+				"property-declaration": "onespace",
+				"variable-declaration": "onespace"
+			},
+			{
+				"call-signature": "onespace",
+				"index-signature": "onespace",
+				"parameter": "onespace",
+				"property-declaration": "onespace",
+				"variable-declaration": "onespace"
+			}
+		],
+		"arrow-parens": true,
+		"only-arrow-functions": true,
+		"one-variable-per-declaration": true,
+		"typedef": true,
+		"space-before-function-paren": false,
+		"array-type": false
+	}
+}
